@@ -51,7 +51,6 @@ A full-featured e-commerce platform with admin panel, product management, and St
 ### 📈 GitHub Stats
 
 ![Nayem's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nayem-khan1&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=Nayem-khan1&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nayem-khan1&layout=compact&theme=tokyonight)
 
 ---
