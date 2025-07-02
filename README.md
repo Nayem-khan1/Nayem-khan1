@@ -17,8 +17,8 @@ I'm a passionate full-stack JavaScript developer specialized in building modern,
 
 ### 📫 Contact Me
 
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayemkhan.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nayem-khan1)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nayemkhan4496@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/md-nayem-khan)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github)](https://github.com/Nayem-khan1)
 
 ---
