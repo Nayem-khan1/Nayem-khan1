@@ -1,5 +1,5 @@
 <!-- Banner Image -->
-![Banner](https://yourdomain.com/your-banner.png)
+![Banner](https://i.ibb.co/F428H6CR/Nayem-khan.png)
 
 <h1 align="center">Hi, I'm Md. Nayem Khan 👋</h1>
 
