@@ -118,21 +118,25 @@ I am a **Full-stack MERN Developer (frontend-focused)** with a passion for build
 ## 📈 My Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Nayem-khan1&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Nayem-khan1&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=Nayem-khan1&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph-ashy.vercel.app/graph?username=Nayem-khan1&theme=react" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nayem-khan1&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayem-khan1&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="195" />
 </div>
 
 ---
 
 ## 🐍 Contribution Snake
 <div align="center">
-  <img src="https://github.com/Nayem-khan1/Nayem-khan1/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nayem-khan1/Nayem-khan1/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nayem-khan1/Nayem-khan1/output/github-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Nayem-khan1/Nayem-khan1/output/github-snake.svg" />
+  </picture>
 </div>
 
 ---
