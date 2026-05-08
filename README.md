@@ -37,14 +37,31 @@ I'm a passionate full-stack JavaScript developer specialized in building modern,
 
 ### 📌 Featured Projects
 
-#### 🔹 [BlockChamp](https://github.com/Nayem-khan1/blockchamp)
-A Blockly-based online problem-solving judge platform for kids, supporting drag-and-drop coding, role-based dashboards, and multi-language support.
+SELECTED PROJECTS
 
-#### 🔹 [QR Code Generator SaaS](https://github.com/Nayem-khan1/qr-code-saas)
-A MERN-based SaaS product where users can generate and manage custom QR codes with analytics and premium access control.
+🔹 RONG BD E-commerce Platform
+Live: https://rong-bd-frontend.vercel.app  
+GitHub: https://github.com/Nayem-khan1/rong-bd-frontend  
 
-#### 🔹 [MERN Clothing E-commerce](https://github.com/Nayem-khan1/mern-ecommerce)
-A full-featured e-commerce platform with admin panel, product management, and Stripe + Cash on Delivery checkout.
+• Built with React, Node.js, Express, MongoDB, Tailwind CSS
+• JWT authentication + admin dashboard
+• Product listing, cart & order system
+• Fully responsive production-ready UI
+
+🔹 RONG BD Admin Panel
+Live: https://rong-bd-admin.vercel.app  
+GitHub: https://github.com/Nayem-khan1/rong-bd-admin  
+
+• Admin management system with role-based access
+• Order & product control system
+• REST API integration with backend
+
+🔹 Personal Portfolio
+Live: https://nayem-dev.vercel.app  
+GitHub: https://github.com/Nayem-khan1/portfolio  
+
+• Modern React portfolio with project showcase
+• Responsive UI with clean design system
 
 ---
 
