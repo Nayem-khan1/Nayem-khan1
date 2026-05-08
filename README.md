@@ -118,14 +118,14 @@ I am a **Full-stack MERN Developer (frontend-focused)** with a passion for build
 ## 📈 My Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nayem-khan1&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayem-khan1&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api?username=Nayem-khan1&show_icons=true&theme=radical&cache_seconds=1800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=Nayem-khan1&layout=compact&theme=radical&cache_seconds=1800" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nayem-khan1&theme=react" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph-ashy.vercel.app/graph?username=Nayem-khan1&theme=react" width="100%" alt="Activity Graph" />
 </div>
 
 ---
