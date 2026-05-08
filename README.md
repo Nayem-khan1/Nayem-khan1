@@ -7,7 +7,7 @@
 
 <!-- Greeting & Typing SVG -->
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi,+I'm+Md.+Nayem+Khan+👋;Full+Stack+MERN+Developer;SaaS+Product+Specialist;React+%26+Node.js+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi,+I'm+Md.+Nayem+Khan+👋;Full-stack+MERN+Developer+(frontend-focused);SaaS+Product+Specialist;React+%26+Node.js+Expert" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -26,9 +26,9 @@
 </div>
 
 ## 🚀 About Me
-I am a **Full Stack MERN Developer** with a passion for building complete, scalable web ecosystems. From high-fidelity frontends to robust backend architectures, I specialize in the **MERN Stack** (MongoDB, Express, React, Node.js). I focus on creating seamless user experiences and efficient server-side logic.
+I am a **Full-stack MERN Developer (frontend-focused)** with a passion for building complete, scalable web ecosystems. While I excel at creating high-fidelity frontends, I also build robust backend architectures using the **MERN Stack** (MongoDB, Express, React, Node.js). I focus on creating seamless user experiences and efficient server-side logic.
 
-- 🔭 **Expertise**: MERN Stack, Next.js, TypeScript, & RESTful API Design.
+- 🔭 **Expertise**: Full-stack MERN, Next.js, TypeScript, & UI/UX Design.
 - ⚡ **Tech Philosophy**: User-centric design powered by clean, maintainable code.
 - 🎯 **Objective**: Delivering world-class digital solutions for global startups.
 
@@ -80,17 +80,35 @@ I am a **Full Stack MERN Developer** with a passion for building complete, scala
 
 <table border="0">
   <tr>
-    <td width="50%">
+    <td width="50%" valign="top">
+      <img src="https://nayemkhan.me/image/projects/astronomy_pathshala.png" width="100%" alt="Astronomy Pathshala" />
       <h3>🪐 Astronomy Pathshala</h3>
-      <p>Premium EdTech platform for space enthusiasts.</p>
-      <p><b>Stack:</b> Next.js, React, bKash API</p>
-      <a href="https://github.com/Nayem-khan1/public-website">View Repository</a>
+      <p>Premium EdTech platform for space enthusiasts in Bangladesh.</p>
+      <p><b>Stack:</b> Next.js, React, Tailwind, bKash</p>
+      <a href="https://beta.astronomypathshala.com/">Live Demo</a> | <a href="https://github.com/Nayem-khan1/public-website">GitHub</a>
     </td>
-    <td width="50%">
-      <h3>🛒 Rong BD E-commerce</h3>
-      <p>Full-stack <b>MERN</b> marketplace with robust admin controls.</p>
-      <p><b>Stack:</b> MongoDB, Express, React, Node.js, Vite</p>
-      <a href="https://github.com/Nayem-khan1/rong-bd-frontend">View Repository</a>
+    <td width="50%" valign="top">
+      <img src="https://nayemkhan.me/image/projects/project-1.png" width="100%" alt="Portfolio" />
+      <h3>👤 Personal Portfolio</h3>
+      <p>Modern developer portfolio showcasing projects and skills.</p>
+      <p><b>Stack:</b> React, Framer Motion, Tailwind</p>
+      <a href="https://nayemkhan.me/">Live Demo</a> | <a href="https://github.com/Nayem-khan1/portfolio">GitHub</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://nayemkhan.me/image/projects/project-2.png" width="100%" alt="Rong BD Frontend" />
+      <h3>🛒 Rong BD Frontend</h3>
+      <p>Full-stack MERN marketplace with seamless shopping UX.</p>
+      <p><b>Stack:</b> React, Redux, Node.js, MongoDB</p>
+      <a href="https://rong-bd-frontend.vercel.app/">Live Demo</a> | <a href="https://github.com/Nayem-khan1/rong-bd-frontend">GitHub</a>
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://nayemkhan.me/image/projects/project-3.png" width="100%" alt="Rong BD Admin" />
+      <h3>⚙️ Rong BD Admin</h3>
+      <p>Robust admin dashboard for inventory and order management.</p>
+      <p><b>Stack:</b> React, Tailwind, Express, JWT</p>
+      <a href="https://rong-bd-admin.vercel.app/">Live Demo</a> | <a href="https://github.com/Nayem-khan1/rong-bd-admin">GitHub</a>
     </td>
   </tr>
 </table>
@@ -100,14 +118,14 @@ I am a **Full Stack MERN Developer** with a passion for building complete, scala
 ## 📈 My Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nayem-khan1&show_icons=true&theme=transparent&hide_border=true&title_color=000&text_color=555&icon_color=000" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayem-khan1&layout=compact&theme=transparent&hide_border=true&title_color=000&text_color=555" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nayem-khan1&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nayem-khan1&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nayem-khan1&theme=minimal&hide_border=true&color=000" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nayem-khan1&theme=react" width="100%" alt="Activity Graph" />
 </div>
 
 ---
