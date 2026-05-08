@@ -7,13 +7,13 @@
 
 <!-- Greeting & Typing SVG -->
 <h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi,+I'm+Md.+Nayem+Khan+👋;Frontend+Developer;SaaS+Product+Specialist;React+%26+Next.js+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=000000&center=true&vCenter=true&width=600&lines=Hi,+I'm+Md.+Nayem+Khan+👋;Full+Stack+MERN+Developer;SaaS+Product+Specialist;React+%26+Node.js+Expert" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="https://nayemkhan.me"><img src="https://img.shields.io/badge/Portfolio-nayemkhan.me-000?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
-  <a href="https://www.linkedin.com/in/md-nayem-khan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:nayemkhan4496@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://nayemkhan.me"><img src="https://img.shields.io/badge/Portfolio-nayemkhan.me-black?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/md-nayem-khan"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="mailto:nayemkhan4496@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
 
 <!-- Trophies -->
@@ -26,9 +26,9 @@
 </div>
 
 ## 🚀 About Me
-I am a **Senior Frontend Engineer** with a deep passion for building high-fidelity SaaS products. My expertise lies in the React ecosystem, specifically **Next.js**, **TypeScript**, and **Tailwind CSS**. I focus on creating seamless user experiences and robust, scalable architectures.
+I am a **Full Stack MERN Developer** with a passion for building complete, scalable web ecosystems. From high-fidelity frontends to robust backend architectures, I specialize in the **MERN Stack** (MongoDB, Express, React, Node.js). I focus on creating seamless user experiences and efficient server-side logic.
 
-- 🔭 **Currently Building**: [Astronomy Pathshala](https://nayemkhan.me) & [BlockChamp](https://github.com/Nayem-khan1)
+- 🔭 **Expertise**: MERN Stack, Next.js, TypeScript, & RESTful API Design.
 - ⚡ **Tech Philosophy**: User-centric design powered by clean, maintainable code.
 - 🎯 **Objective**: Delivering world-class digital solutions for global startups.
 
@@ -88,8 +88,8 @@ I am a **Senior Frontend Engineer** with a deep passion for building high-fideli
     </td>
     <td width="50%">
       <h3>🛒 Rong BD E-commerce</h3>
-      <p>Full-stack marketplace with robust admin controls.</p>
-      <p><b>Stack:</b> MERN Stack, Vite, JWT</p>
+      <p>Full-stack <b>MERN</b> marketplace with robust admin controls.</p>
+      <p><b>Stack:</b> MongoDB, Express, React, Node.js, Vite</p>
       <a href="https://github.com/Nayem-khan1/rong-bd-frontend">View Repository</a>
     </td>
   </tr>
