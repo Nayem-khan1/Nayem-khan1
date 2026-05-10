@@ -13,7 +13,7 @@
 <div align="center">
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=Full-stack+MERN+Developer+(frontend-focused);Building+SaaS+Products+That+Scale;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&repeat=true&width=650&lines=MERN+Developer+(frontend-focused);Building+SaaS+Products+That+Scale;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB" alt="Typing SVG" />
   </a>
   <br/><br/>
 
@@ -39,7 +39,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-I am a **MERN Developer (frontend-focused)** with a passion for building complete, scalable web ecosystems. While I excel at creating high-fidelity frontends, I also build robust backend architectures using the **MERN Stack** (MongoDB, Express, React, Node.js). I focus on creating seamless user experiences and efficient server-side logic.
+I am a Full-stack MERN Developer (frontend-focused)** with a passion for building complete, scalable web ecosystems. While I excel at creating high-fidelity frontends, I also build robust backend architectures using the **MERN Stack** (MongoDB, Express, React, Node.js). I focus on creating seamless user experiences and efficient server-side logic.
 
 ```javascript
 const nayem = {
