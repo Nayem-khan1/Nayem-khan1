@@ -39,7 +39,7 @@
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
 
-I am a **Full-stack MERN Developer (frontend-focused)** with a passion for building complete, scalable web ecosystems. While I excel at creating high-fidelity frontends, I also build robust backend architectures using the **MERN Stack** (MongoDB, Express, React, Node.js). I focus on creating seamless user experiences and efficient server-side logic.
+I am a **MERN Developer (frontend-focused)** with a passion for building complete, scalable web ecosystems. While I excel at creating high-fidelity frontends, I also build robust backend architectures using the **MERN Stack** (MongoDB, Express, React, Node.js). I focus on creating seamless user experiences and efficient server-side logic.
 
 ```javascript
 const nayem = {
